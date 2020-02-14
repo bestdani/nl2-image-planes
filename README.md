@@ -11,8 +11,6 @@ You will also find three demonstration images and some some quick instruction vi
 ### Note
 that newer Windows versions will probably warn you that these batch files are potentially harmful, they are indeed *potentially* like any executable from unknown sources!
 
-If you are in doubt
+So if you are in doubt and it might be some good advise to always do a quick cross check that files you downloaded from the internet are indeed containing what they should in any case before executing them:
 
-- and it might be some good advise to always do a quick cross check that files you downloaded from the internet are indeed containing what they should in any case before executing them -
-
-have a look at the hosted files and compare with the downloaded files or just copy the code directly from the repository after having convinced that there's just `echo` commands inside them and save the text file as a `.bat` file, I recommend to also give them some meaningful name then if you have don this.
+Have a look at the hosted files and compare with the downloaded files or just copy the code directly from the repository after having convinced yourself that there's basically just harmless `echo` commands inside them, then save the text files as a `.bat` file, I recommend to also give them some meaningful name then if you have don this.
