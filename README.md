@@ -6,7 +6,7 @@ Simply drag and drop an image on one of these Windows batch files to let it crea
 
 Don't hestitate to make fine adjustments to the created NL2SCO and NL2MAT files for your final needs after that.
 
-You will also find three demonstration images and some some quick instruction video inside the sub folder when you download the zip file using the releases feature of github.
+**You will also find three demonstration images and some some quick instruction video inside the sub folder when you download the zip file using the [releases](https://github.com/bestdani/nl2-image-planes/releases) feature of github.**
 
 ### Note
 that newer Windows versions will probably warn you that these batch files are potentially harmful, they are indeed *potentially* like any executable from unknown sources!
